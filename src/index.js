@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useFormContext, formUtils } from '@kne/react-form';
+import { useFormContext, formUtils } from '@kne/react-form-antd';
 import { LoadingButton } from '@kne/button-group';
 import get from 'lodash/get';
 
