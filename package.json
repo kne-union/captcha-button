@@ -1,6 +1,6 @@
 {
   "name": "@kne/captcha-button",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "验证码按钮组件，主要用于处理需要倒计时功能的验证码发送场景",
   "syntax": {
     "esmodules": true
